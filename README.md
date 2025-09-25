@@ -1,1 +1,2 @@
-# Cuadro-de-origen-y-aplicaci-n-de-fondos
+# Cuadro-de-origen-y-aplicación-de-fondos
+Hecha la salvedad, de la acepción dada a la palabra fondos en el análisis, definiremos el objetivo del presente estado, considerando que el mismo es el que analiza las actividades de inversión y financiamiento de la empresa entre dos fechas. Para su elaboración es necesario precisar conceptualmente los elementos a utilizar. El balance general refleja en el activo, el total de la propiedad de activo de la diferente calidad y condición de la misma, mientras que en su pasivo se agrupan las deudas también clasificadas según su distinto plazo de exigibilidad y condición jurídica. 
